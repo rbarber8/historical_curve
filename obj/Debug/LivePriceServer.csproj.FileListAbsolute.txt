@@ -1,0 +1,6 @@
+C:\Users\Scalp\Desktop\project undergoing\LivePriceServer\LivePriceServer\bin\Debug\LivePriceServer.exe.config
+C:\Users\Scalp\Desktop\project undergoing\LivePriceServer\LivePriceServer\bin\Debug\LivePriceServer.exe
+C:\Users\Scalp\Desktop\project undergoing\LivePriceServer\LivePriceServer\bin\Debug\LivePriceServer.pdb
+C:\Users\Scalp\Desktop\project undergoing\LivePriceServer\LivePriceServer\obj\Debug\LivePriceServer.exe
+C:\Users\Scalp\Desktop\project undergoing\LivePriceServer\LivePriceServer\obj\Debug\LivePriceServer.pdb
+C:\Users\Scalp\Desktop\project undergoing\LivePriceServer\LivePriceServer\obj\Debug\LivePriceServer.csprojResolveAssemblyReference.cache
